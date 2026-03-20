@@ -34,8 +34,8 @@ The app allows users to browse products, view detailed information, manage favor
 
 ## 🔗 Links
 
-- **Preview:** https://OMedvid.github.io/Online-techno-store/
-- **Design:** https://www.figma.com/design/WMdJ24eHk4EkSr25mrt7Y2/Phone-catalog--V2--Original-Dark
+- **Preview:** (https://OMedvid.github.io/Online-techno-store/)
+- **Design:** (https://www.figma.com/design/WMdJ24eHk4EkSr25mrt7Y2/Phone-catalog--V2--Original-Dark)
 
 ---
 
